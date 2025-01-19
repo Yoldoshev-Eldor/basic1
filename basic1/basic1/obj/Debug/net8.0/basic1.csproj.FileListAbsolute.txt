@@ -1,0 +1,15 @@
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\bin\Debug\net8.0\basic1.exe
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\bin\Debug\net8.0\basic1.deps.json
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\bin\Debug\net8.0\basic1.runtimeconfig.json
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\bin\Debug\net8.0\basic1.dll
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\bin\Debug\net8.0\basic1.pdb
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.AssemblyInfoInputs.cache
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.AssemblyInfo.cs
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.csproj.CoreCompileInputs.cache
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.sourcelink.json
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.dll
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\refint\basic1.dll
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.pdb
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\basic1.genruntimeconfig.cache
+D:\Projects\MohirDev .NET\basic1\basic1\basic1\obj\Debug\net8.0\ref\basic1.dll
